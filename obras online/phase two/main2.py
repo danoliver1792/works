@@ -14,8 +14,8 @@ driver.maximize_window()
 sleep(2)
 
 # logging in
-login = 'abdala.noah@agilesteel.com.br'
-password = 'Abdala@12'
+login = ''
+password = ''
 
 xpath_button_login = '//*[@id="__next"]/div[1]/div/div[2]/div/div/nav/ul/li[7]/a'
 xpath_login = '//*[@id="Email"]'
