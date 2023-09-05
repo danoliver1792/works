@@ -85,3 +85,4 @@ b_submit = Button(frame_down, command=search_google, text='Pesquisar', width=39,
 b_submit.place(x=15, y=150)
 
 window.mainloop()
+
